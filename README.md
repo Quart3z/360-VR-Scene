@@ -1,4 +1,4 @@
 # 360-VR-Scene
 
-Demo video:
-https://youtu.be/cZ2HR3dCvN8
+<a href='https://youtu.be/cZ2HR3dCvN8'>Demo video</a>
+
